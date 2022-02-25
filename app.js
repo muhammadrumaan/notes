@@ -114,6 +114,7 @@ saveBtn.addEventListener('click',function (element) {
     textInput.value="";
     saveBtn.style.display="none";
     addBtn.style.display="block";
+    cancelBtn.style.display="none";
 
 
 
