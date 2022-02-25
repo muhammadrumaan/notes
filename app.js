@@ -76,6 +76,7 @@ function editNotes(index) {
   addBtn.style.display="none";
   textInput.value= notesObj[index-1];
   indval=index-1;
+  textInput.focus();
   
   
 }
